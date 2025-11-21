@@ -1,0 +1,11 @@
+This project uses placeholder assets. Add real images with the same filenames to replace them:
+- hero_home.jpg (1920x1080)
+- hero_about.jpg (1920x1080)
+- hero_contact.jpg (1920x1080)
+- project1.jpg, project2.jpg, project3.jpg, project4.jpg (300x300)
+- blog1.jpg, blog2.jpg, blog3.jpg (400x250)
+- avatar1.png, avatar2.png (100x100)
+- icon_web_design.png, icon_ecommerce.png, icon_portfolio.png, icon_landing.png, icon_custom.png, icon_support.png, icon_seo.png
+- icon_linkedin.png, icon_instagram.png, icon_twitter.png, icon_facebook.png
+- samest_logo.png (150x150) or use provided SVG samest_logo.svg
+- favicon 32x32 px

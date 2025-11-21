@@ -1,0 +1,28 @@
+Placeholders required by design:
+- Images (provide your own or leave as data placeholders)
+  hero_home.jpg (1920x1080)
+  hero_about.jpg (1920x1080)
+  hero_contact.jpg (1920x1080)
+  project1.jpg (300x300)
+  project2.jpg (300x300)
+  project3.jpg (300x300)
+  project4.jpg (300x300)
+  blog1.jpg (400x250)
+  blog2.jpg (400x250)
+  blog3.jpg (400x250)
+  avatar1.png (100x100)
+  avatar2.png (100x100)
+  samest_logo.png (150x150)
+  icon_web_design.png
+  icon_ecommerce.png
+  icon_portfolio.png
+  icon_landing.png
+  icon_custom.png
+  icon_support.png
+  icon_seo.png
+  icon_linkedin.png
+  icon_instagram.png
+  icon_twitter.png
+  icon_facebook.png
+
+Tip: You can replace any missing image paths with your own files. The app uses lazy loading and optimized markup for performance.
